@@ -1,0 +1,11 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.name {
+    color: goldenrod;
+}
+
+h1 {
+    font-size: 40px;
+}
